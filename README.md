@@ -6,4 +6,5 @@ Software: Code Blocks
 
 ## Output
 
-![Screenshot 2023-03-07 125224](https://user-images.githubusercontent.com/73648392/223332765-b11bcc80-ffe5-4f8e-b2e4-bdd359dc21ca.png)
+
+![Screenshot 2023-03-07 174346](https://user-images.githubusercontent.com/73648392/223399883-7d498c03-a7e9-4ac4-be58-d1c594bae290.png)
