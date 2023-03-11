@@ -1,4 +1,4 @@
-# CPP Looping Exercise
+# List of my CPP Looping Exercise
 Latihan looping C++
 <br>
 Software: Code Blocks
@@ -67,7 +67,7 @@ int main()                 // fungsi utama program
         
 ```
 
-## Output
+## Output Daftar Menu
 
 
 ![Screenshot 2023-03-07 174346](https://user-images.githubusercontent.com/73648392/223399883-7d498c03-a7e9-4ac4-be58-d1c594bae290.png)
@@ -199,3 +199,10 @@ int main()
 
 
 ```
+
+### Output Hitung Gaji Karyawan
+
+
+![gjkywn](https://user-images.githubusercontent.com/73648392/224488422-ca5ac4f8-b48a-4381-b2c8-db87baf36cc5.png)
+
+
